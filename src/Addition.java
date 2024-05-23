@@ -11,6 +11,8 @@ public class Addition {
 		
 		int y=20;
 		System.out.println(++y);
+		
+		System.out.println(y++);
 
 	}
 
