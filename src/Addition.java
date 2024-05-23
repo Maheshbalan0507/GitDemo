@@ -8,6 +8,9 @@ public class Addition {
 		
 		int x=15;
 		System.out.println(x+x+x);
+		
+		int y=20;
+		System.out.println(++y);
 
 	}
 
